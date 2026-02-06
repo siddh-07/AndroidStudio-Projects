@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ANDROIDDemos</string>
+    <string name="cst_memory_match">CST Memory Match</string>
+    <string name="select_a_card">Select a Card:</string>
+    <string name="you_ve_made_0_guesses">You\'ve made 0 guesses</string>
+    <string name="play_again">Play Again</string>
+    <string name="new_game">New Game</string>
+    <string name="write_to_file">Write to File</string>
+    <string name="enter_content_to_be_added_to_the_file">Enter content to be added to the file</string>
+    <string name="the_file_details_and_content_goes_here_dafadfdsf_sdfsd_fsd_fsd_f_sdf_sd_fsd_f_sd_f_sdf_sd_f_sdf_sd_fsd_fsd_fsd_f_sd_fsd_f_sd_f_sd_fds_f_ds_f_sd_f_sd_fsd_f_ds_f_ds_f_sd_f_sd_f_sd_f_d_s_f_sd_f_s_d_f_sd_f_ds_f_sd_f_sd_f_sd_xxcxxcxcxc_xcxcxcxcxcxcx">The file details and content goes here dafadfdsf sdfsd fsd fsd f sdf sd fsd f sd f sdf sd f sdf sd fsd fsd fsd f sd\' fsd f sd\'f sd fds f ds\' f\'sd \'f sd fsd f ds\'f \'ds f sd\'f \'sd f\' sd\'f d\'s f\'sd \'f s\'d f\'sd \'f ds\'f \'sd f\' sd\'f sd xxcxxcxcxc xcxcxcxcxcxcx</string>
+    <string name="message_welcome">Welcome to demos</string>
+    <string name="hint_message">Enter your message</string>
+    <string name="btn_show_label">Show</string>
+    <string name="tv_message_default_text">Your message goes here</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_calculated_tip_goes_here">Your calculated tip goes here</string>
+    <string name="tip">Tip</string>
+    <string name="enter_percentage">Enter percentage</string>
+</resources>
