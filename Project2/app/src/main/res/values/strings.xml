@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="already_have_an_account">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="class_">Class</string>
+    <string name="grade_tracker">GRADE TRACKER</string>
+</resources>
